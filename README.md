@@ -210,9 +210,3 @@ Este projeto foi desenvolvido para praticar:
 - Padrão DAO;
 - Testes automatizados com JUnit;
 - Organização de projetos em camadas.
-
----
-
-## Autora
-Mickaelly;
-Projeto acadêmico desenvolvido para fins de aprendizagem e aplicação prática dos conceitos estudados na disciplina.
