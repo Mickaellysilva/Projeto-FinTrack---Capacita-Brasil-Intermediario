@@ -44,7 +44,7 @@ O projeto foi desenvolvido com o objetivo de aplicar conceitos de Programação 
 
 ---
 
-## ecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - JavaFX
@@ -213,6 +213,6 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-## 👨‍💻 Autor
-
+## Autora
+Mickaelly
 Projeto acadêmico desenvolvido para fins de aprendizagem e aplicação prática dos conceitos estudados na disciplina.
