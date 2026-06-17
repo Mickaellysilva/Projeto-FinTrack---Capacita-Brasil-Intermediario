@@ -214,5 +214,5 @@ Este projeto foi desenvolvido para praticar:
 ---
 
 ## Autora
-Mickaelly
+Mickaelly;
 Projeto acadêmico desenvolvido para fins de aprendizagem e aplicação prática dos conceitos estudados na disciplina.
