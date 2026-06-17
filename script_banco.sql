@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS fintrack_db;
+
+USE fintrack_db;
+
+CREATE TABLE IF NOT EXISTS transacoes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    descricao VARCHAR(255) NOT NULL,
+    valor DOUBLE NOT NULL,
+    tipo VARCHAR(20) NOT NULL
+);
